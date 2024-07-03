@@ -16,10 +16,12 @@ I am particularly interested in predictive analytics, risk modeling, and custome
 
 ## Education
 
-- **Master in Applied Mathematics**, [Sorbonne University], [2023]
+- **Master in Applied Mathematics**, [Sorbonne science University], [2023]
 - Relevant coursework: Inferential - Bayesian- non-parametric statistics, linear models , Stochastic processes (martingales, Markov chains), Numerical probabilities
-- **Master in Statistical Engineering and Data Science**, [ISUP], [2023]
+- **Master in Statistical Engineering and Data Science**, [ISUP - Sorbonne], [2023]
 - Relevant coursework: Python, R, C++, Statistical learning (machine learning), Digital optimization and data science, Time series
+- **Bachelor's degree in Mathematics and Computer Science applied to the human and social sciences**, [University of Lille], [2020]
+- Relevant coursework: Algebra, Analysis, Economics, Statistics, Python, Game theory, Optimization, Web programming (PHP, Html & CSS), Database (SQL)
 
 ## Projects
 
