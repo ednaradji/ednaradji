@@ -9,7 +9,7 @@ I am particularly interested in predictive analytics, risk modeling, and custome
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, SQL, C++
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: MySQL
